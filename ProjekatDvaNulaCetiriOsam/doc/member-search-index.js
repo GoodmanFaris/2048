@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Konzola","c":"Konzola","l":"IspisiStanje()"},{"p":"Konzola","c":"Konzola","l":"Konzola()","u":"%3Cinit%3E()"},{"p":"Konzola","c":"Konzola","l":"Potez()"}];updateSearchResults();
